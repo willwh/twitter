@@ -13,7 +13,7 @@ Hook.io Twitter is a wrapper around the most commonly used parts of [ntwitter](h
 ## Installation
 
      git clone git@github.com:hookio/twitter.git
-     cd irc
+     cd twitter
      npm install
      node bin/twitter
 
